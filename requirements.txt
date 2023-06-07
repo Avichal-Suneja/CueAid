@@ -7,7 +7,4 @@ mediapipe==0.10.0
 keras==2.11.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
-tensorboard==2.11.2
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
 tensorflow==2.11.0
