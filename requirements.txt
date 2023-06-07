@@ -1,0 +1,16 @@
+Flask==2.2.3
+opencv-contrib-python==4.7.0.72
+opencv-python==4.6.0.66
+openvino==2022.3.0
+numpy==1.23.4
+mediapipe==0.10.0
+keras==2.11.0
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+tensorboard==2.11.2
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.11.0
+tensorflow-estimator==2.11.0
+tensorflow-intel==2.11.0
+tensorflow-io-gcs-filesystem==0.30.0
