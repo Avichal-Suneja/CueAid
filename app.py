@@ -51,7 +51,7 @@ def sign_lang():
     predictions = []
     threshold = 0.7
 
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture('http://192.168.1.247:8080/video')
 
     with mp_holistic.Holistic(min_detection_confidence=0.7, min_tracking_confidence=0.7) as holistic:
 
